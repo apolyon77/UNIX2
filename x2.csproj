@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{07A8D159-AD35-477C-AB97-ADDE4AD6B694}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>x2</RootNamespace>
+    <AssemblyName>x2</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>3</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <PlatformTarget>x86</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SYSTEM COMPONENTS\program.cs" />
+    <Compile Include="x2.cs" />
+    <Compile Include="SYSTEM COMPONENTS\space.cs" />
+    <Compile Include="SYSTEM PROGRAMS\SystemCommand.cs" />
+    <Compile Include="SYSTEM PROGRAMS\SystemConsole.cs" />
+    <Compile Include="SYSTEM PROGRAMS\SystemJournal.cs" />
+    <Compile Include="SYSTEM PROGRAMS\SystemManager.cs" />
+    <Compile Include="SYSTEM PROGRAMS\SystemMessenger.cs" />
+    <Compile Include="SYSTEM PROGRAMS\UserConsole.cs" />
+    <Compile Include="SYSTEM PROGRAMS\UserJournal.cs" />
+    <Compile Include="SYSTEM PROGRAMS\UserProgram.cs" />
+    <Compile Include=".cfg\GlobalSuppressions.cs" />
+    <Compile Include="SYSTEM PROGRAMS\SystemFileManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SYSTEM DISPLAY\IMAGE\" />
+    <Folder Include="SYSTEM INTERFACE\GRAPH\" />
+    <Folder Include="SYSTEM INTERFACE\NETWORK\" />
+    <Folder Include="SYSTEM INTERFACE\PHYSICAL\" />
+    <Folder Include="SYSTEM INTERFACE\VIRTUAL\" />
+    <Folder Include="SYSTEM INTERFACE\VISUAL\" />
+    <Folder Include="SYSTEM INTERFACE\VOCAL\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".docs\LocalSystem.vsdx" />
+    <None Include=".cfg\app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".docs\Journal\system_journal.txt" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>
