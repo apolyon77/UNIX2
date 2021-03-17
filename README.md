@@ -3,10 +3,10 @@ Unix 2 development code repository
 - x2 branch dropdown links to each new working interation
 - most recent available branch 1.0.0
 
-Public License:
+PUBLIC LICENSE:
 - details coming soon
 
-Private License:
+PRIVATE LICENSE:
 - Microsoft Corporation (Redmond, WA)
 - License Number: 0001
 - Unix 2 Computing System  - Operating System Development License
@@ -16,4 +16,6 @@ Private License:
 - Automated Industries     - Copyright License
 - Autotech, Mainboard      - Copyright License
 - vision, Vision, VISION   - Copyright License
-- Authorized By: Commander Apolyon 16/3/2021 9:00pm
+- APROVAL DATE:    16/3/2021 9:00pm
+- EXPIRATION DATE: NEVER
+- ISSUED BY:       COMMANDER APOLYON
