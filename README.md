@@ -1,5 +1,5 @@
 # x2
-unix 2 development code repository
+Unix 2 development code repository
 - x2 branch dropdown links to each new working interation
 - most recent available branch 1.0.0
 
