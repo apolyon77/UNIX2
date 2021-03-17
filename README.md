@@ -1,7 +1,7 @@
 # UNIX 2 [x2]
 UNIX 2 development code repository
 - x2 branch dropdown links to each new working interation
-- most recent available branch 1.0.0
+- most recent available branch 1.0.1
 
 PUBLIC LICENSE: (None Issued)
 - details coming soon
