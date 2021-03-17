@@ -1,0 +1,8 @@
+/home/apolyon/Documents/x2/bin/Release/x2.exe.config
+/home/apolyon/Documents/x2/bin/Release/x2.exe
+/home/apolyon/Documents/x2/obj/x86/Release/x2.csproj.CoreCompileInputs.cache
+/home/apolyon/Documents/x2/obj/x86/Release/x2.exe
+C:\Users\dr2si\OneDrive\Documents\Projects\x2\bin\Release\x2.exe.config
+C:\Users\dr2si\OneDrive\Documents\Projects\x2\bin\Release\x2.exe
+C:\Users\dr2si\OneDrive\Documents\Projects\x2\obj\x86\Release\x2.csproj.CoreCompileInputs.cache
+C:\Users\dr2si\OneDrive\Documents\Projects\x2\obj\x86\Release\x2.exe
