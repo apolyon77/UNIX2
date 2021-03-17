@@ -7,7 +7,7 @@ Public License:
 - details coming soon
 
 Private License:
-- Microsoft Corporation (Redmond, Wa)
+- Microsoft Corporation (Redmond, WA)
 - License Number: 0001
 - Copyright: x2, unix, unix 2, automated industries, autotech, mainboard, vision
 - Unix 2 Computing System - Operating System Development License
