@@ -12,8 +12,8 @@ Private License:
 - Unix 2 Computing System  - Operating System Development License
 - Unix 2 Computing System  - Hardware Development License
 - Unix 2 Computing System  - Interface Development License
-- UNIX 2, Unix 2, x2       - Name, Look, Like, and Function Copyright License
-- Automated Industries     - Name Copyright License
-- Autotech, Mainboard      - Name Copyright License
-- vision, Vision, VISION   - Name Copyright License
-- lincense issued by: Commander Apolyon 16/3/2021 9:00pm
+- UNIX 2, Unix 2, x2       - Copyright License
+- Automated Industries     - Copyright License
+- Autotech, Mainboard      - Copyright License
+- vision, Vision, VISION   - Copyright License
+- Authorized By: Commander Apolyon 16/3/2021 9:00pm
