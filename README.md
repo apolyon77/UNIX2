@@ -9,7 +9,6 @@ Public License:
 Private License:
 - Microsoft Corporation (Redmond, WA)
 - License Number: 0001
-- ---------------------------------------------------------------
 - Unix 2 Computing System  - Operating System Development License
 - Unix 2 Computing System  - Hardware Development License
 - Unix 2 Computing System  - Interface Development License
@@ -17,5 +16,4 @@ Private License:
 - Automated Industries     - Copyright License
 - Autotech, Mainboard      - Copyright License
 - vision, Vision, VISION   - Copyright License
-- ---------------------------------------------------------------
-- Authorization: Commander Apolyon 16/3/2021 9:00pm
+- Authorized By: Commander Apolyon 16/3/2021 9:00pm
