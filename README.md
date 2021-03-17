@@ -12,10 +12,11 @@ PRIVATE LICENSE:
 - Unix 2 Computing System  - Operating System Development License
 - Unix 2 Computing System  - Hardware Development License
 - Unix 2 Computing System  - Interface Development License
+- unix, Unix, UNIX         - Copyright License
 - UNIX 2, Unix 2, x2       - Copyright License
 - Automated Industries     - Copyright License
 - Autotech, Mainboard      - Copyright License
 - vision, Vision, VISION   - Copyright License
-- APROVAL DATE:    16/3/2021 9:00pm
+- APROVAL DATE:    17/3/2021 12:15pm
 - EXPIRATION DATE: NEVER
 - ISSUED BY:       COMMANDER APOLYON
