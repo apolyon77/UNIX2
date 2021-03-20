@@ -2,7 +2,7 @@
 UNIX 2 development code repository
 - x2 branch dropdown links to each new working interation
 - most recent available branch: see readme.md on UNIX2 branch
-- x2.zip is only file available on 1.0.6
+- x2.zip is only file available on 1.0.7
 
 PUBLIC LICENSE: (None Issued)
 - details coming soon
