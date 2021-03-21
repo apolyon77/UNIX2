@@ -33,7 +33,7 @@ PRIVATE LICENSE:
 - ISSUED BY:       COMMANDER APOLYON
 
 PRIVATE LICENSE:
-- Apple Corp (Cupertino, CA)
+- Apple, Inc. (Cupertino, CA)
 - License Number: 0003
 - Unix 2 Computing System           - Operating System Development License
 - Unix 2 Computing System           - User Program(s) Development License
