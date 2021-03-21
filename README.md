@@ -1,12 +1,12 @@
 # UNIX 2 [x2]
 UNIX 2 development code repository
 - x2 branch dropdown links to each new working interation
-- most recent available branch 1.0.7 (x2.zip commit)
+- most recent available branch 1.1.0
 
 PUBLIC LICENSE: (None Issued)
 - details coming soon
-- 
-PRIVATE LICENSE: (ISSUE COUNT: 2)
+
+PRIVATE LICENSE: (ISSUE COUNT: 3)
 
 - Microsoft Corporation (Redmond, WA)
 - License Number: 0001
@@ -32,4 +32,14 @@ PRIVATE LICENSE:
 - Expiration DATE: NEVER
 - ISSUED BY:       COMMANDER APOLYON
 
-# Total Number of Licenses Issued: 2
+PRIVATE LICENSE:
+- Apple (Cupertino, CA)
+- License Number: 0003
+- Unix 2 Computing System           - Operating System Development License
+- Unix 2 Computing System           - User Program(s) Development License
+- Unix 2 Computing System           - User Service(s) Development License
+- APPROVAL DATE:   21/03/2021 8:45
+- Expiration DATE: NEVER
+- ISSUED BY:       COMMANDER APOLYON
+
+# Total Number of Licenses Issued: 3
