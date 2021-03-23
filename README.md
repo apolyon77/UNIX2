@@ -42,4 +42,16 @@ PRIVATE LICENSE:
 - Expiration DATE: NEVER
 - ISSUED BY:       COMMANDER APOLYON
 
-# Total Number of Licenses Issued: 3
+PRIVATE LICENSE:
+- itronic idustrial inc (Beijing, China)
+- License Number: 0004
+- Unix 2 Computing System           - Complete Unix 2 Computing System Development License
+- xitronic, x itronic, XITRONIC     - Copyright License
+- X ITRONIC, XiTronic,  XTRONIC     - Copyright License
+- unix, Unix, UNIX, x1              - Copyright License
+- unix 2, Unix 2, UNIX 2, x2        - Copyright License- 
+- APPROVAL DATE:   23/03/2021
+- Expirating DATE: NEVER
+- ISSUED BY:       COMMANDER APOLYON
+
+# Total Number of Licenses Issued: 4
