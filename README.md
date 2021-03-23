@@ -49,7 +49,7 @@ PRIVATE LICENSE:
 - xitronic, x itronic, XITRONIC     - Copyright License
 - X ITRONIC, XiTronic,  XTRONIC     - Copyright License
 - unix, Unix, UNIX, x1              - Copyright License
-- unix 2, Unix 2, UNIX 2, x2        - Copyright License- 
+- unix 2, Unix 2, UNIX 2, x2        - Copyright License 
 - APPROVAL DATE:   23/03/2021
 - Expirating DATE: NEVER
 - ISSUED BY:       COMMANDER APOLYON
