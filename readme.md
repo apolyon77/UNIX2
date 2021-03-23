@@ -19,7 +19,7 @@ PRIVATE LICENSE: (ISSUE COUNT: 4)
 - Autotech, Mainboard               - Copyright License
 - vision os, Vision OS, VISION OS   - Copyright License
 - APROVAL DATE:    17/3/2021 12:15am
-- EXPIRATION DATE: NEVER
+- EXPIRES:         NEVER
 - ISSUED BY:       COMMANDER APOLYON
 
 PRIVATE LICENSE: 
@@ -29,7 +29,7 @@ PRIVATE LICENSE:
 - Unix 2 Computing System           - User Program(s) Development License
 - Unix 2 Computing System           - User Service(s) Development License
 - APPROVAL DATE:   20/03/2021 2:57AM
-- Expiration DATE: NEVER
+- EXPIRES:         NEVER
 - ISSUED BY:       COMMANDER APOLYON
 
 PRIVATE LICENSE:
@@ -39,7 +39,7 @@ PRIVATE LICENSE:
 - Unix 2 Computing System           - User Program(s) Development License
 - Unix 2 Computing System           - User Service(s) Development License
 - APPROVAL DATE:   21/03/2021 8:45
-- Expiration DATE: NEVER
+- EXPIRES:         NEVER
 - ISSUED BY:       COMMANDER APOLYON
 
 PRIVATE LICENSE:
@@ -51,7 +51,7 @@ PRIVATE LICENSE:
 - unix, Unix, UNIX, x1              - Copyright License
 - unix 2, Unix 2, UNIX 2, x2        - Copyright License 
 - APPROVAL DATE:   23/03/2021
-- Expirating DATE: NEVER
+- EXPIRES:         NEVER
 - ISSUED BY:       COMMANDER APOLYON
 
 # Total Number of Licenses Issued: 4
