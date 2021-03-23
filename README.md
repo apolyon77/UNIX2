@@ -1,12 +1,12 @@
 # UNIX 2 [x2]
 UNIX 2 development code repository
 - x2 branch dropdown links to each new working interation
-- most recent available branch 1.1.2
+- most recent available branch 1.1.3
 
 PUBLIC LICENSE: (None Issued)
 - details coming soon
 
-PRIVATE LICENSE: (ISSUE COUNT: 3)
+PRIVATE LICENSE: (ISSUE COUNT: 4)
 
 - Microsoft Corporation (Redmond, WA)
 - License Number: 0001
